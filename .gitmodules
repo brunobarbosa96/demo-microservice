@@ -1,0 +1,9 @@
+[submodule "produto"]
+	path = produto
+	url = https://github.com/brunobarbosa96/microservice-produto
+[submodule "pedido"]
+	path = pedido
+	url = https://github.com/brunobarbosa96/microservice-pedido.git
+[submodule "gateway_go"]
+	path = gateway_go
+	url = https://github.com/brunobarbosa96/api-gateway-go.git
